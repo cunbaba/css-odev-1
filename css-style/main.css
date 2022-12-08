@@ -1,1 +1,56 @@
+/* index. html div kodları */
 
+.hc {
+    width: 285px;
+    margin:0 auto;
+    
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    margin-bottom: 10px;
+}
+
+section>h1 {
+    color: indigo;
+}
+
+div a {
+    margin:0 5px;
+    float: left;
+    color: white;
+    background-color: saddlebrown;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+.clear {
+    clear: both;
+    margin-top: 100px;
+}
+
+p {
+    text-align: center;
+}
+
+/* Ürün listesi */
+ol{
+    text-align: center;
+}
+
+li {
+    margin: 20px 0;
+    color: darkgreen;
+    list-style-position: inside;
+}
+/* Görseller */
+
+.product {
+    position: relative;
+}
+
+img {
+    width: 500px;
+    border: .3em solid black;
+}
